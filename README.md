@@ -1,6 +1,3 @@
-Sure, here's a GitHub README markdown template for your Jupyter Notebook:
-
-```markdown
 # Unveiling Customer Churn Patterns: Predictive Insights from Telco Company Dataset
 
 ![Cover Image](https://media.licdn.com/dms/image/C5612AQG0Gilk9mJpxw/article-cover_image-shrink_720_1280/0/1621963349834?e=2147483647&v=beta&t=S-3_jI-4xWu14OSyh7RJg93TQmLc_QWTZAW5Gd_aL8s)
@@ -37,6 +34,3 @@ Key Variables:
 - [Conclusion](#conclusion)
 
 [Click here to view the full Jupyter Notebook](link_to_your_notebook.ipynb)
-```
-
-Please replace `link_to_your_notebook.ipynb` with the actual link to your Jupyter Notebook. You can further customize this template based on your project's specific details and content structure.
