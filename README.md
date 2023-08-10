@@ -33,4 +33,4 @@ Key Variables:
 - [Voting Classifier](#voting-classifier)
 - [Conclusion](#conclusion)
 
-[Click here to view the full Jupyter Notebook](link_to_your_notebook.ipynb)
+[Click here to view the full Jupyter Notebook](telco_customer_churn.ipynb)
